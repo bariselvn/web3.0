@@ -97,7 +97,7 @@
               },
               {
                 "internalType": "string",
-                "name": "massage",
+                "name": "message",
                 "type": "string"
               },
               {

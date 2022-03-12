@@ -11,7 +11,7 @@ uint256 transactionCount;
     address sender;
     address receiver;
     uint amount;
-    string massage;
+    string message;
     uint256 timestamp;
     string keyword;
  }
